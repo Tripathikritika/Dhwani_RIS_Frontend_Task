@@ -28,7 +28,7 @@ export const getCreditCardDetails= ( ) => (dispatch)  => {
 export const postCreditCardDetails= ( payload ) => (dispatch)  => {
     dispatch( addCardDetailsRequest() )
     axios.post(`http://localhost:3000/userInfo`,{
-        cardNumber: payload.query,
+        cardNumber: payload.cardNumber,
         cardHolderName : payload.cardHolderName,
         expiryDate : payload.expiryDate
     })

@@ -3,7 +3,7 @@ import { loadData, saveData } from './localStorage'
 
 export const initState = {
     cardUserInfo :loadData("userInfo") || [],
-    cardNumber :loadData("cardNum")  || []
+   
 }
 
 const reducer = ( state = initState , action ) => {

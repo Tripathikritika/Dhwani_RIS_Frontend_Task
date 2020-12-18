@@ -1,12 +1,16 @@
 .creditCardOuterDiv {
   width: 100%;
+  margin: 20px;
+  /* background-image: url('../background.png'); */
+  /* background-repeat: no-repeat; */
+  border-radius: 10px;
 }
 
 .creditCardDiv {
   border: 2px solid black;
   width: 350px;
   height: 220px;
-  margin: 15px;
+  margin: 1px;
   padding: 13px;
   display: flex;
   flex-direction: column;

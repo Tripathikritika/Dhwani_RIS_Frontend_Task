@@ -109,7 +109,7 @@ function PinComponent(props) {
 
     const handleSubmit = ( e ) => {
         e.preventDefault()
-       console.log(query)
+   
         dispatch(postCreditCardDetails({cardNumber : query  ,cardHolderName : userCard.cardHolderName ,expiryDate : userCard.expiryDate }))
     }
 
@@ -122,6 +122,7 @@ function PinComponent(props) {
         }
         setShow(true)
     }
+    console.log(query)
     return (
         <>
         
@@ -136,7 +137,6 @@ function PinComponent(props) {
                         onChange = {(e) => handleChange(e , i)}
                         key={i}
                         ref={(item) => (textInput[i] = item)}
-
                     />
                     ))}
                     <div className={`${styles.cardHolderDiv}`}>
