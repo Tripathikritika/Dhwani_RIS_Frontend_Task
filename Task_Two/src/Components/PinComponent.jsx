@@ -162,7 +162,6 @@ function PinComponent(props) {
                 <button onClick = {handleDelete} >Del</button>
             </>}
             </div>
-            
         </>
     )
 }
