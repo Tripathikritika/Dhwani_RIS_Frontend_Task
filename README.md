@@ -31,7 +31,7 @@
 ## Screenshots
 
 <img src="./Task_One/public/LandingPage.png" alt="Landing Page" />
-<img src="./public/CardList.png" alt="Landing Page" />
+<img src="./Task_One/public/CardList.png" alt="Credit Card Page" />
 
 ## Installation
 
