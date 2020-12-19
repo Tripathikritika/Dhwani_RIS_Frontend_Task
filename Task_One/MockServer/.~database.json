@@ -7,14 +7,6 @@
       "expiryMonth": "21",
       "bankName": "UCO",
       "id": 1
-    },
-    {
-      "cardNumber": "",
-      "cardHolderName": "",
-      "expiryDate": "",
-      "expiryMonth": "",
-      "bankName": "",
-      "id": 2
     }
   ]
 }

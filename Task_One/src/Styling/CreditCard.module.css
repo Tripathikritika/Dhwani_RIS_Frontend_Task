@@ -7,22 +7,30 @@
   border-radius: 15px;
   margin: 10px auto;
   padding: 14px;
-  background: #8f8e56;
-  box-shadow: inset 9px 9px 10px #7c7c4b, inset -9px -9px 10px #a2a061;
+  background: linear-gradient(110deg, #4e342e 60%, #bcaaa4 60%);
 }
+
 .bankName {
   text-align: right;
   font-size: 27px;
+  padding: 0px;
+  color: #eceff1;
+  text-shadow: 4px 4px 6px #3e2723;
 }
 .cardNumber {
   width: 100%;
   font-size: 37px;
   text-align: center;
+  color: #eceff1;
+  text-shadow: 4px 4px 6px #3e2723;
 }
+
 .cardHolderName {
   font-size: 25px;
   display: flex;
   justify-content: space-around;
+  color: #eceff1;
+  text-shadow: 4px 4px 6px #3e2723;
 }
 .expiryDates {
   display: flex;
@@ -30,9 +38,12 @@
 }
 .expiryDates > div {
   font-size: 20px;
+  color: #eceff1;
+  text-shadow: 4px 4px 6px #3e2723;
 }
 .deleteButton {
   margin-top: 5px;
   text-align: right;
   font-size: x-large;
+  color: #3e2723;
 }

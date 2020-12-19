@@ -19,7 +19,7 @@ export default function CreditCard() {
         <div className={`${styles.creditCardDiv}`}>
             <div >
                 {
-                cardUserInfo.length > 0 && cardUserInfo.map((item) =>  
+                cardUserInfo && cardUserInfo.length > 0 && cardUserInfo.map((item) =>  
                     <div className={`${styles.creditCardOuter}`} key={item.id}>
                         <div className={styles.bankName}>
                             { item.bankName}
@@ -30,12 +30,12 @@ export default function CreditCard() {
                         <div className={styles.cardNumber}>
                             <div>{item.cardNumber}</div>
                         </div>
+                       
                         <div className={styles.cardHolderName}>
                             <div>{item.cardHolderName}</div>
                             <div className={styles.expiryDates}>
                                 <div>{item.expiryDate} /</div>
                                 <div>{item.expiryMonth}</div>
-                            
                             </div>
                         </div>
                         <div onClick={() => handleSingleDelete(item.id)} className={styles.deleteButton}><i class="fas fa-trash"></i></div>
