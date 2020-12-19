@@ -1,6 +1,7 @@
 # Dhwani_RIS_Frontend_Task
 
 ### Task One
+
 > Design A fully functional credit card input field component.
 
 ## Tech/framework
@@ -27,20 +28,20 @@
 - [x] The input field is keyboard accessible.
 - [x] On pressing enter or submit card number will be displayed in a list with a delete option.
 
-
 ## Screenshots
 
-<img src="" alt="Landing Page" />
+<img src="./Task_One/public/LandingPage.png" alt="Landing Page" />
+<img src="./public/CardList.png" alt="Landing Page" />
 
 ## Installation
 
-> - Clone the repo 
+> - Clone the repo
 
 > `https://github.com/Tripathikritika/Dhwani_RIS_Frontend_Task.git`
 
 > - Go to the Task One Folder
 
->  `cd Task_One`
+> `cd Task_One`
 
 > - Install Packages
 
@@ -50,9 +51,9 @@
 
 > `npm start`
 
-
 ### Task Two
-> Using Html/CSS/JS, created 5 boxes.When a users click a box, the box should appear at the top of all the other boxes. 
+
+> Using Html/CSS/JS, created 5 boxes.When a users click a box, the box should appear at the top of all the other boxes.
 
 ## Tech/framework
 
@@ -73,20 +74,19 @@
 
 - [x] Toggling Effect.
 
-
 ## Screenshots
 
 <img src="" alt="Landing Page" />
 
 ## Installation
 
-> - Clone the repo 
+> - Clone the repo
 
 > `https://github.com/Tripathikritika/Dhwani_RIS_Frontend_Task.git`
 
 > - Go to the Task One Folder
 
->  `cd Task_Two`
+> `cd Task_Two`
 
 > - Run the index.html in Live server or using local path
 
