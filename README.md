@@ -76,7 +76,7 @@
 
 ## Screenshots
 
-<img src="" alt="Landing Page" />
+<img src="./Task_Two/LandingPage.png" alt="Landing Page" />
 
 ## Installation
 
