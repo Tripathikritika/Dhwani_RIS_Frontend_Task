@@ -30,8 +30,8 @@
 
 ## Screenshots
 
-<img src="./Task_One/public/LandingPage.png" alt="Landing Page" />
-<img src="./Task_One/public/CardList.png" alt="Credit Card Page" />
+<img src="./Task_One/public/LandingPage.png" alt="Landing Page" width="400px" />
+<img src="./Task_One/public/CardList.png" alt="Credit Card Page" width="400px"/>
 
 ## Installation
 
@@ -76,7 +76,7 @@
 
 ## Screenshots
 
-<img src="./Task_Two/LandingPage.png" alt="Landing Page" />
+<img src="./Task_Two/LandingPage.png" alt="Landing Page" width="400px"/>
 
 ## Installation
 
