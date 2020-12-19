@@ -9,12 +9,20 @@
       "id": 1
     },
     {
-      "cardNumber": "",
-      "cardHolderName": "",
-      "expiryDate": "",
-      "expiryMonth": "",
-      "bankName": "",
+      "cardNumber": "2222 2222 2222 2222",
+      "cardHolderName": "Anjali Tripathi",
+      "expiryDate": "7",
+      "expiryMonth": "21",
+      "bankName": "Citi Bank",
       "id": 2
+    },
+    {
+      "cardNumber": "8888 8888 8888 8888",
+      "cardHolderName": "Suman Dubey",
+      "expiryDate": "8",
+      "expiryMonth": "21",
+      "bankName": "Axis Bank",
+      "id": 3
     }
   ]
 }

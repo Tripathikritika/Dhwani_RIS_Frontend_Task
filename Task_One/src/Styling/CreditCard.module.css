@@ -24,7 +24,16 @@
   color: #eceff1;
   text-shadow: 4px 4px 6px #3e2723;
 }
-
+.buttonDiv {
+  margin: 10px;
+}
+.backButton {
+  border: 1px solid black;
+  font-size: 29px;
+  color: #3e2723;
+  outline: none;
+  border: 0px solid black;
+}
 .cardHolderName {
   font-size: 25px;
   display: flex;
