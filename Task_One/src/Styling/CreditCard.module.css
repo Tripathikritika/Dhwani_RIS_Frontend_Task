@@ -1,0 +1,38 @@
+.creditCardDiv {
+  width: 100%;
+}
+.creditCardOuter {
+  width: 25%;
+  height: 250px;
+  border-radius: 15px;
+  margin: 10px auto;
+  padding: 14px;
+  background: #8f8e56;
+  box-shadow: inset 9px 9px 10px #7c7c4b, inset -9px -9px 10px #a2a061;
+}
+.bankName {
+  text-align: right;
+  font-size: 27px;
+}
+.cardNumber {
+  width: 100%;
+  font-size: 37px;
+  text-align: center;
+}
+.cardHolderName {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+.expiryDates {
+  display: flex;
+  justify-content: center;
+}
+.expiryDates > div {
+  font-size: 20px;
+}
+.deleteButton {
+  margin-top: 5px;
+  text-align: right;
+  font-size: x-large;
+}

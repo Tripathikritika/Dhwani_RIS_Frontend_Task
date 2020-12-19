@@ -1,0 +1,30 @@
+body {
+  background: #424242;
+  width: 100%;
+}
+
+.creditCardOuterDiv {
+  border: 2px solid black;
+  margin: 10% auto;
+  border-radius: 34px;
+  background: #8f8e56;
+  padding: 10px;
+  box-shadow: inset 9px 9px 10px #7c7c4b, inset -9px -9px 10px #a2a061;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.creditCardDiv {
+  border: 1px solid black;
+
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.bankName {
+  text-align: right;
+  margin-right: 10px;
+  font-weight: 600;
+  font-size: large;
+}

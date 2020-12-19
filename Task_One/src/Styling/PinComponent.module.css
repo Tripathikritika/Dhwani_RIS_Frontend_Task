@@ -1,0 +1,73 @@
+.cardHolderDiv {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.cardHolderName {
+  width: 100%;
+  padding: 14px;
+  border: 0px solid #7c7c4b;
+  background-color: #7c7c4b;
+  color: white;
+  outline: none;
+}
+::placeholder {
+  color: white;
+}
+.pinInput {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.pinComponentInput {
+  width: 15%;
+  border: 1px solid white;
+  border-bottom: 1px solid black;
+  padding: 14px;
+  border: 0px solid #7c7c4b;
+  background-color: #7c7c4b;
+  color: white;
+  outline: none;
+}
+.datesInput {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.cardExpiryDate {
+  width: 25%;
+  padding: 10px;
+  padding: 14px;
+  border: 0px solid #7c7c4b;
+  background-color: #7c7c4b;
+  color: white;
+  outline: none;
+}
+.formInputDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding: 15px;
+}
+.bankNameDiv {
+  margin: 20px 12px 0px 0px;
+}
+.bankInput {
+  width: 100%;
+  padding: 14px 0px 14px 14px;
+  border: 0px solid #7c7c4b;
+  background-color: #7c7c4b;
+  color: white;
+  outline: none;
+}
+.submitInput {
+  display: flex;
+  margin: 20px auto;
+  padding: 14px;
+  font-size: 16px;
+  border-radius: 28%;
+  outline: none;
+  border: 0px solid white;
+}
+
+/* 1111222238834444 */
